@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there! I'm Maniraj<br><br>I'm a passionate **Full-Stack Developer** focused on building seamless web experiences with modern JavaScript technologies. As a fresh graduate diving into the tech industry, I'm constantly learning and exploring new tools to expand my skill set.<br><br>### 🚀 What I Do<br>- **Frontend**: React, Next.js, Tailwind CSS<br>- **Backend**: Node.js, Express, MongoDB, Mongoose<br>- **Database**: MySQL, MongoDB<br>- **Other Tools**: Firebase Auth, REST APIs, React Redux<br><br>### 🌱 Currently Learning<br>I'm currently enhancing my backend skills with **Node.js**, **Express**, and **MongoDB** to become a well-rounded **Full-Stack Developer**. I'm also exploring **Next.js** for server-side rendering and **TypeScript** for type-safe applications.<br>📫 Let's Connect!<br>- **LinkedIn**: https://www.linkedin.com/in/maniraj-kumar/<br>- **Email**: manirajsingh7667@gmail.com<br><br>Feel free to explore my repos, and let's build something amazing together!<br>
+## 👋 Hi there! I'm Maniraj<br><br>I'm a passionate **Full-Stack Developer** focused on building seamless web experiences with modern JavaScript technologies. As a fresh graduate diving into the tech industry, I'm constantly learning and exploring new tools to expand my skill set.<br>
 
 
 ## 🌐 Socials:
